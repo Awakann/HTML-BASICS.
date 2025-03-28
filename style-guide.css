@@ -1,0 +1,29 @@
+body{
+    background-color: skyblue;
+    color: brown;
+}
+h1{
+    font-size: 100px;
+    color: black;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    color: red;
+    text-align: none;
+}
+.name{
+    background-color: pink;
+    padding-top: 3%;
+    border:1px;
+}
+img{
+    border-style: none;
+    width: 500px;
+    height: 300px;
+}
+a{
+    color: brown;
+    text-decoration: none;
+    
+}
